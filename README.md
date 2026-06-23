@@ -29,3 +29,6 @@ Registrar aprendizados, práticas e evolução profissional dentro do ecossistem
 Patricia Oliveira
 **Analista e Desenvolvedora de Software**
 🔗 [LinkedIn](https://www.linkedin.com/in/savarezi/)
+##
+🌐 Acesse meu portfólio
+👉 [Ver portfólio online](https://patriciaoliveiradev.netlify.app/)

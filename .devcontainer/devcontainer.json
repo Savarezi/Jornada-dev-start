@@ -1,5 +1,5 @@
 {
-  "name": "Dev Environment",
+  "name": "Harbour Dev",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "apt update && apt install -y build-essential git gcc make libncurses-dev"
+  "postCreateCommand": "sudo apt update && sudo apt install harbour -y"
 }

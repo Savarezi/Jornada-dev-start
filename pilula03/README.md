@@ -1,20 +1,25 @@
-# Pílula #02 — A linguagem dos anos 80 que move empresas até hoje
+# Pílula #03 — O computador é genial e burro ao mesmo tempo
 
-Toda tecnologia tem uma história — e a da nossa linguagem é fascinante, porque ela atravessou 4 décadas e continua viva.
+Antes de escrever a primeira linha de código, você precisa entender com quem está conversando. E o computador tem uma personalidade bem peculiar. 🤖
 
-## 1980 — dBASE
-Nasce uma linguagem feita pra manipular bancos de dados em micros. Simples e produtiva, virou febre. Dela surgiu uma família inteira de linguagens chamada **xBase**.
+## Ele é genial...
+Faz bilhões de operações por segundo, nunca se cansa, nunca se distrai e nunca "esquece" um passo. Para tarefas repetitivas e cálculos, não existe parceiro melhor.
 
-## 1985 — Clipper
-O xBase mais popular do Brasil. Empresas, bancos, comércios — uma geração inteira de sistemas comerciais foi escrita em Clipper. Se você conversar com um programador veterano, é bem provável que ele tenha começado por aí.
+## ...e ao mesmo tempo completamente burro
+Ele não tem bom senso. Não adivinha o que você quis dizer. Não interpreta intenções. Faz **exatamente** o que você mandou — mesmo que seja uma bobagem. Se você der uma ordem errada, ele vai executá-la com perfeição e velocidade. 😅
 
-## Anos 2000 — A bifurcação
-Quando o mundo migrou pro Windows, esse legado gigante não morreu. Ele evoluiu em dois caminhos:
-* **Harbour**: um compilador xBase moderno, gratuito e open-source, que roda em Windows, Linux e Mac. É o que vamos usar pra aprender os fundamentos.
-* **ADVPL**: o dialeto criado pela TOTVS pra programar dentro do Protheus. É uma extensão do mesmo tronco xBase, com superpoderes voltados pro ERP.
+## O modelo mental que vale ouro
+Imagine o computador como um escritório:
+* **Memória:** Escaninhos etiquetados onde guardamos valores.
+* **CPU (controle):** O chefe que lê as instruções e decide o que fazer.
+* **CPU (cálculo):** A calculadora que faz contas e comparações.
+* **Entrada:** O que chega (teclado, arquivo, mouse).
+* **Saída:** O que sai (tela, impressora, arquivo).
 
-## Por que isso importa pra você
-Harbour e ADVPL são mais de 90% compatíveis. Ou seja: tudo que você aprender em Harbour nos primeiros módulos vai valer quase inteiro quando entrarmos no Protheus. Você aprende uma vez e colhe duas.
+O fluxo de quase todo programa é sempre o mesmo: **entrada → processamento → saída**. Leia um dado, faça algo com ele, mostre o resultado. Guarde essa tríade — ela vai aparecer o curso inteiro.
+
+## Por que isso importa
+Quando um programa der errado (e vai dar 😄), na maioria esmagadora das vezes o computador acertou em obedecer. O "bug" estava na ordem que **nós** demos. Aceitar isso desde já vai te poupar muita frustração: o problema quase nunca é a máquina — é a instrução.
 
 ---
-*Curiosidade: poucas linguagens duram 40 anos. As que duram, duram porque resolvem problemas reais de negócio — e ainda pagam contas muito bem. Você está entrando numa tradição sólida.*
+💡 **Reflexão do dia:** Se o computador faz exatamente o que mandamos, então programar bem é, antes de tudo, **pensar com clareza**. A lógica vem antes do código.

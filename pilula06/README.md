@@ -1,31 +1,22 @@
-# Pílula #05 — O segredo dos devs experientes: lápis e papel antes do teclado
+# Pílula #06 — O primeiro "bug" foi uma mariposa de verdade
 
-Existe um hábito que separa quem só digita código de quem realmente resolve problemas, e ele não envolve o computador.
+Você já parou pra pensar por que chamamos os erros de programação de "bugs" (insetos)? A história é real e aconteceu em 1947, na Universidade de Harvard.
 
-## O erro clássico do iniciante
-Receber um problema e sair digitando código imediatamente, tentando "descobrir no caminho". O resultado costuma ser: muita tentativa, muito erro, muita frustração e um código bagunçado.
+## A origem do nome
+A equipe da pioneira Grace Hopper operava um computador gigantesco chamado Harvard Mark II — uma máquina de relés eletromecânicos que ocupava uma sala inteira. De repente, a máquina começou a apresentar defeitos.
 
-## O que os experientes fazem
-Eles fecham o editor e pegam papel e caneta (ou abrem um quadro como o Miro). Primeiro desenham a solução:
-* Quais são os dados de entrada?
-* Qual o resultado esperado?
-* Quais passos levam de um ao outro? 
-Somente depois de enxergar o caminho é que escrevem o código.
+Ao investigar, encontraram uma mariposa presa dentro de um dos relés, atrapalhando o funcionamento. Eles removeram o inseto, colaram-no no caderno de registros e anotaram ao lado: *"First actual case of bug being found"* (primeiro caso real de um bug sendo encontrado).
 
-## Por que isso economiza tempo?
-Pensar parece "mais lento", mas é o oposto:
-* Corrigir um erro de raciocínio no papel custa segundos — é só riscar e redesenhar.
-* O mesmo erro descoberto depois de programar pode custar horas de caça ao bug.
+## Conceitos fundamentais
+Desde então, esses termos se tornaram universais:
+* **Bug:** Qualquer erro ou comportamento inesperado em um programa.
+* **Debugar (debug):** O processo de caçar e corrigir esses erros.
 
-É a diferença entre conferir o mapa antes de viajar e sair dirigindo torcendo para chegar.
+## Quem foi Grace Hopper
+Muito além dessa anedota, ela foi uma das maiores mentes da computação. Defendeu a ideia revolucionária de que linguagens de programação deveriam ser mais próximas do inglês e menos da linguagem de máquina — abrindo caminho para as linguagens de alto nível que usamos hoje, incluindo a família xBase.
 
-## O ciclo de desenvolvimento que vamos usar
-1. **Entender o problema:** O que é pedido? Quais os dados? Qual a saída?
-2. **Desenhar a solução:** Fluxograma ou pseudocódigo, testando mentalmente com exemplos.
-3. **Implementar:** Aí sim, escrever, compilar e testar o código.
-
-## Por que isso importa
-No início do curso, vamos passar um tempo "longe do teclado", focando em lógica, algoritmos e fluxogramas. Pode parecer estranho querer programar sem programar, mas é justamente essa base que vai te tornar independente para resolver problemas que você nunca viu antes.
+## Por que isso importa para você
+Bugs não são sinal de incompetência; são parte natural e cotidiana do trabalho. Todo programador, do estagiário ao sênior, passa boa parte do tempo debugando. Aprender a caçar erros com calma e método é tão importante quanto escrever código novo.
 
 ---
-*Lema para guardar: lápis e papel antes do teclado. Cérebro antes dos dedos.*
+💡 **Curiosidade:** O caderno com a mariposa colada existe até hoje e está em um museu de história americana. O primeiro bug da história está literalmente preservado!

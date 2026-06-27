@@ -29,6 +29,8 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 08](pilula08/) | Variáveis e notação húngara | ✅ Concluído |
 | [Pílula 09](pilula09/) | Lógica booleana | ✅ Concluído |
 | [Pílula 10](pilula10/) | Estruturas de decisão (IF/ELSE) | ✅ Concluído |
+| [Pílula 10](pilula11/) | Estruturas de decisão (IF/ELSE) | ✅ Concluído |
+
 
 ---
 

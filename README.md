@@ -30,6 +30,8 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 09](pilula09/) | Lógica booleana | ✅ Concluído |
 | [Pílula 10](pilula10/) | Estruturas de decisão (IF/ELSE) | ✅ Concluído |
 
+
+
 ---
 
 ## 📌 Status

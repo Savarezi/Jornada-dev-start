@@ -29,8 +29,10 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 08](pilula08/) | Variáveis e notação húngara | ✅ Concluído |
 | [Pílula 09](pilula09/) | Lógica booleana | ✅ Concluído |
 | [Pílula 10](pilula10/) | Estruturas de decisão (IF/ELSE) | ✅ Concluído |
-| [Pílula 11](pilula11/) | Estruturas de decisão (FOR/WHILE) | ✅ Concluído |
-
+| [Pílula 11](pilula11/) | Estruturas de repetição (FOR/WHILE) | ✅ Concluído |
+| [Pílula 12](pilula12/) | Arrays: a cartela de ovos | ✅ Concluído |
+| [Pílula 13](pilula13/) | Funções: programe com Lego | ✅ Concluído |
+| [Pílula 14](pilula14/) | O ERP que move o Brasil | ✅ Concluído |
 
 
 

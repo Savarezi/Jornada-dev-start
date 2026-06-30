@@ -33,6 +33,8 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | [Pílula 12](pilula12/) | Arrays: a cartela de ovos | ✅ Concluído |
 | [Pílula 13](pilula13/) | Funções: programe com Lego | ✅ Concluído |
 | [Pílula 14](pilula14/) | O ERP que move o Brasil | ✅ Concluído |
+| [Pílula 15](pilula15/) | Dicionário de dados do Protheus | ✅ Concluído |
+
 
 
 

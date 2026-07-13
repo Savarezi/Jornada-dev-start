@@ -32,6 +32,9 @@ Aqui estão os estudos teóricos e práticos realizados durante a jornada Start+
 | Pílula 22 | Git: o diário do seu código | 📖 Conceitual |
 | [Pílula 23](pilula23/) | Nomes que importam: a arte de nomear bem | ✅ Concluído |
 | Pílula 24 | materiais-e-links | 📖 Conceitual |
+| Pílula 25 | O ciclo do dev: escrever → compilar → testar → corrigir | 📖 Conceitual |
+| Pílula 26 | Véspera: você chegou até aqui | 📖 Conceitual |
+| Pílula 27 | É hoje! Faltam poucas horas | 📖 Conceitual |
 
 
 ---

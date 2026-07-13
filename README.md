@@ -35,3 +35,9 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 - 📖 Pílulas: 24/24
 - 💻 Aulas: 1/10
 - 🚀 Projeto Final: Em desenvolvimento
+
+---
+<a href="https://www.linkedin.com/in/savarezi/" target="_blank">
+  <img width="25" height="25" alt="LinkedIn" src="https://github.com/user-attachments/assets/07d7e175-0ee7-4b4c-95c2-f54d183b32fc" />
+</a>
+

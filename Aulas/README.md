@@ -14,12 +14,11 @@ Consolidar os conhecimentos adquiridos por meio de atividades práticas utilizan
 
 ## 📋 Aulas
 
-| Aula | Assunto | Status |
-|------|---------|--------|
+## 📂 Arquivos
 
-| [Aulas](modulo01/) | Configuração do Ambiente | ✅ Concluído |
-
-
+| Arquivo | Descrição |
+|---------|-----------|
+| `teste.prg` | Primeiro programa utilizado para validar o ambiente. |
 ## 🚀 Tecnologias
 
 - Harbour

@@ -29,6 +29,8 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 
 ---
+## Aluna:Patricia Oliveira
+---
 
 ## 📊 Progresso
 

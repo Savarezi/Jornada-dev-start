@@ -16,7 +16,7 @@ Aplicar na prática os conceitos estudados durante o programa, desenvolvendo exe
 
 | Módulo | Conteúdo | Status |
 |--------|----------|--------|
-| [Módulo 01](modulo01/) |  FICHA DE APRESENTAÇÃO | ✅ Concluído |
+| [Módulo 01](modulo01/) |  Ficha de Apresentação | ✅ Concluído |
 | [Módulo 02](modulo02/) | | ⏳ Aguardando |
 | [Módulo 03](modulo03/) | | ⏳ Aguardando |
 | [Módulo 04](modulo04/) | | ⏳ Aguardando |

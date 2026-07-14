@@ -16,7 +16,7 @@ Consolidar os conhecimentos adquiridos por meio de atividades práticas utilizan
 
 | Aula | Assunto | Status |
 |------|---------|--------|
-| [Aula 01](aula01/) | Configuração do Ambiente | ✅ Concluído |
+| [modulo01](modulo01/) | Configuração do Ambiente | ✅ Concluído |
 
 ---
 

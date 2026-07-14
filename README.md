@@ -25,7 +25,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 | Seção | Descrição |
 |--------|-----------|
 | 📖 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
-| 💻 [Aulas](aulas_praticas/) | Aulas práticas e exemplos desenvolvidos durante o curso |
+| 💻 [Aulas](Aulas/) | Aulas práticas e exemplos desenvolvidos durante o curso |
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 
 ---

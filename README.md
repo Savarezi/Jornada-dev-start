@@ -27,6 +27,8 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 | 📖 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
   💻 [Módulo 01](modulo-01/) | Exercícios práticos do primeiro módulo |
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
+| 📝 [Exercicios de Fixação](exercicios-extras/) |Excecicios realizados durante a aula |
+
 
 ---
 ## Aluna:Patricia Oliveira

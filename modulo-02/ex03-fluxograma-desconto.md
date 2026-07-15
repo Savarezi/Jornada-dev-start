@@ -30,4 +30,10 @@ O fluxograma abaixo representa a lógica para calcular o valor final da compra, 
 7. Encerra o algoritmo.
 
 ---
+## Extra — Implementação em ADVPL
 
+Este algoritmo também foi desenvolvido em ADVPL para demonstrar a aplicação prática da lógica de decisão utilizando If/Else.
+
+Código disponível em:
+
+[desconto.prg](desconto.prg)

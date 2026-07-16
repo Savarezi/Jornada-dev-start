@@ -36,4 +36,4 @@ Este algoritmo também foi desenvolvido em ADVPL para demonstrar a aplicação p
 
 Código disponível em:
 
-[desconto.prg](desconto.prg)
+| [Demo do fluxograma](codigos) |

@@ -26,7 +26,7 @@ O objetivo é fortalecer o raciocínio lógico antes da implementação em lingu
 | [Exercício 03](ex03-fluxograma-desconto.md) | Fluxograma de desconto | ✅ Concluído |
 | [Exercício 04](ex04-refinamento.md) | Refinamento sucessivo | ✅ Concluído |
 | [Exercício 05](ex05-reflexao.md) | Reflexão (opcional) | ✅ Concluído |
-| [Demo do fluxograma](codigos) | Reflexão (opcional) | ✅ Concluído |
+| [Demo do fluxograma](codigos) | Representação em código | ✅ Concluído |
 
 ---
 

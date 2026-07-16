@@ -32,7 +32,7 @@ Este módulo reúne os primeiros exercícios desenvolvidos durante a formação 
 
 ---
 
-## 📖 Conceitos praticados
+##  Conceitos praticados
 
 - Estrutura de um programa (`FUNCTION Main`)
 - Saída de dados com `QOut()`

@@ -16,7 +16,7 @@ O fluxograma abaixo representa a lógica para calcular o valor final da compra, 
 
 <img width="636" height="406" alt="image" src="https://github.com/user-attachments/assets/6808c7e4-1f93-4e21-9378-03ca469d3237" />
 
-modulo-02/imagens/.ex03-fluxograma-desconto.png
+
 ---
 
 ## Lógica aplicada

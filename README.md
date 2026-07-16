@@ -27,6 +27,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 | 📖 [Pílulas](pilulas/) | Conteúdo teórico e exercícios introdutórios |
   💻 [Módulo 01](modulo-01/) | Exercícios práticos do primeiro módulo |
   💻 [Módulo 02](modulo-02/) | Lógica, algoritmos e fluxogramas|
+  💻 [Módulo 02](modulo-03/) | Variáveis,tipos e operadores|
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 | 📝 [Exercícios de Fixação](exercicios-extras/) |Exercícios realizados durante a aula |
 

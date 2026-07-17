@@ -34,7 +34,9 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 
 
 ---
-## Aluna:Patricia Oliveira
+> **Aluna:Patricia Oliveira**
+
+>  🌐 [Portfólio Online](https://patriciaoliveiradev.netlify.app/)
 ---
 
 ## 📊 Progresso

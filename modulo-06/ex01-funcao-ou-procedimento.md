@@ -52,6 +52,7 @@ QOut( "Olá, mundo!" )
 
 ```
 Nesse caso, QOut() exibe a mensagem na tela.
+
 ---
 
 ## ✅ Conclusão

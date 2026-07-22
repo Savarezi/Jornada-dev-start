@@ -1,5 +1,5 @@
 {
   "name": "Harbour Dev",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "apt update && apt install -y build-essential"
+  "image": "mcr.microsoft.com/devcontainers/base:debian12",
+  "postCreateCommand": "sudo apt update && sudo apt install -y build-essential harbour"
 }

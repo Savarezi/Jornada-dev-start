@@ -6,7 +6,8 @@
 | Exercício | Descrição | Código |
 | :---: | :--- | :---: |
 | 01 | Arquivos DBF nativos em Harbour | 📄 [agenda-dbf.prg](agenda-dbf.prg) |
-| 02 | Arquivos DBF nativos em Harbour | 📖 [Abrir](apostila_modulo06_bonus.pdf) |
+| 02 | Arquivos DBF nativos em Harbour | 📄 [produtos-dbf.prg](produtos-dbf.prg) |
+| 03 | Arquivos DBF nativos em Harbour | 📖 [Abrir](apostila_modulo06_bonus.pdf) |
 
 ## 🗃️ Conteúdo estudado
 

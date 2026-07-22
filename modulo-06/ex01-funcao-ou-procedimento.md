@@ -54,9 +54,9 @@ QOut( "Olá, mundo!" )
 Nesse caso, QOut() exibe a mensagem na tela.
 ---
 
-✅ Conclusão
+## ✅ Conclusão
 
-## A principal diferença é:
+A principal diferença é:
 
 > Função retorna um valor.
 > Procedimento executa uma ação.

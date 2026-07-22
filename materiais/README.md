@@ -15,6 +15,7 @@ Os arquivos servem como referência para consulta dos conteúdos estudados em ca
 | 03 | Variáveis, Tipos e Operadores | 📖 [Abrir](apostila_modulo03.pdf) |
 | 04 | Decisões (Condicionais) | 📖 [Abrir](apostila_modulo04.pdf) |
 | 05 | Repetição (Loops) | 📖 [Abrir](apostila_modulo05.pdf) |
+| 06 | Funções e Arrays | 📖 [Abrir](apostila_modulo06.pdf) |
 
 ---
 

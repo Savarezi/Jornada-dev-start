@@ -32,6 +32,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
   💻 [Módulo 04](modulo-04/) | Decisões (Condicionais)|
   💻 [Módulo 05](modulo-05/) | Repetição (Loops)|
   💻 [Módulo 06](modulo-06/) | Funções e Arrays|
+  💻 [Módulo 07](modulo-07/) | Introdução ao Protheus e ADVPL|
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 | 📝 [Exercícios de Fixação](exercicios-extras/) |Exercícios realizados durante a aula |
 | 📝 [Exercícios de Bonus](exercicios_bonus/) |Arquivos DBF nativos em Harbour |

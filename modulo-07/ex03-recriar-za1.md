@@ -11,13 +11,13 @@ Como o exercício envolve a manipulação do dicionário de dados, descrevo abai
    * Inserir um novo registro na tabela **SX2** (`ZA1` - Cadastro de Pets).
 
 > **📸 Evidência / Print 1:** Inserção da tabela ZA1 no Configurador (SX2)
-> `![Configurador - SX2](./evidencias/print-configurador-campo2.png)`
+> ![Configurador - SX2](./evidencias/print-configurador-campo3.png)`
 
 3. **Criação dos Campos (SX3 - Campos):**
    * Acessar *Base de Dados* > *Dicionário* > *Campos* e cadastrar a estrutura (`ZA1_FILIAL`, `ZA1_CODIGO`, `ZA1_NOME`, `ZA1_RACA`, `ZA1_NASC`).
 
 > **📸 Evidência / Print 2:** Criação dos campos da tabela ZA1 no SX3
-> `![Configurador - SX3](./evidencias/print-configurador-campo3.png)`
+> ![Configurador - SX3](./evidencias/print-configurador-campo2.png)`
 
 ### b. Reconhecimento da Tabela pelo Framework
 * Executou-se a rotina de atualização do sistema para forçar o framework a reconhecer a nova estrutura física e lógica no banco de dados.

@@ -32,6 +32,7 @@ modulo-07/
 | **Estrutura** | [ex02-estrutura-za1-pets.md](ex02-estrutura-za1-pets.md) | Documentação da estrutura da tabela customizada ZA1 e pets. |
 | **Manutenção** | [ex03-recriar-za1.md](ex03-recriar-za1.md) | Procedimento e instruções para recriação da tabela ZA1. |
 | **Faturamento / Customização** | [ex04-campo-customizado-sa1.md](ex04-campo-customizado-sa1.md) | Documentação completa da criação do campo customizado `A1_XAPELID` (Apelido) na tabela SA1 e sua validação visual. |
+| **Teoria / Prática** | [ex05-filial-xfilial.md](ex05-filial-xfilial.md) | Resposta detalhada sobre a importância do campo de filial (`A1_FILIAL`) e o funcionamento da função `xFilial()`. |
 ---
 
 ## 📚 Conteúdos estudados

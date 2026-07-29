@@ -18,11 +18,6 @@ Neste módulo iniciamos os estudos sobre o **ERP TOTVS Protheus**, compreendendo
 
 ## 📂 Estrutura
 
-```text
-modulo-07/
-├── README.md
-```
-
 
 ## Sumário de Arquivos
 

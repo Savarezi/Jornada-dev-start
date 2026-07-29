@@ -23,8 +23,15 @@ modulo-07/
 ├── README.md
 ```
 
-> Os exercícios e exemplos serão adicionados conforme o avanço das aulas.
 
+## Sumário de Arquivos
+
+| Módulo / Categoria | Arquivo / Documento | Descrição |
+| :--- | :--- | :--- |
+| **Geral / Teoria** | [ex01-conceitos-fundamentais.md](ex01-conceitos-fundamentais.md) | Documentação dos conceitos fundamentais de dicionário de dados e customizações no Protheus. |
+| **Estrutura** | [ex02-estrutura-za1-pets.md](ex02-estrutura-za1-pets.md) | Documentação da estrutura da tabela customizada ZA1 e pets. |
+| **Manutenção** | [ex03-recriar-za1.md](ex03-recriar-za1.md) | Procedimento e instruções para recriação da tabela ZA1. |
+| **Faturamento / Customização** | [ex04-campo-customizado-sa1.md](ex04-campo-customizado-sa1.md) | Documentação completa da criação do campo customizado `A1_XAPELID` (Apelido) na tabela SA1 e sua validação visual. |
 ---
 
 ## 📚 Conteúdos estudados

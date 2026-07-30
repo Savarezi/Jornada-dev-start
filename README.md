@@ -33,6 +33,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
   💻 [Módulo 05](modulo-05/) | Repetição (Loops)|
   💻 [Módulo 06](modulo-06/) | Funções e Arrays|
   💻 [Módulo 07](modulo-07/) | Introdução ao Protheus e ADVPL|
+  💻 [Módulo 08](modulo-08/) | CRUD no Protheus|
 | 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
 | 📝 [Exercícios de Fixação](exercicios-extras/) |Exercícios realizados durante a aula |
 | 📝 [Exercícios de Bonus](exercicios_bonus/) |Arquivos DBF nativos em Harbour |
@@ -48,7 +49,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 ##  Progresso
 
 - 📖 Pílulas: 27/27
-- 💻 Aulas: 10/10
+- 💻 Aulas: 9/9
 - 🚀 Projeto Final: Em desenvolvimento
 
 ---

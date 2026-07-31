@@ -10,13 +10,13 @@ Neste módulo foi desenvolvido um projeto completo utilizando **ADVPL** e **Prot
 
 | Exercício | Descrição | Status |
 |-----------|-----------|:------:|
-| 📄 [Exercício 01](./ex01-dicionario-dados.md) | Dicionário de Dados (SZ1 e SZ2) | ⏳ |
-| 📁 [Exercício 02](./ex02-biblioteca-rotinas/) | Biblioteca e Rotinas do Projeto | ⏳ |
-| 📄 [Exercício 03](./ex03-gatilhos-validacoes.md) | Gatilhos e Validações | ⏳ |
-| 📄 [Exercício 04](./ex04-menu-sigacom.md) | Configuração do Menu SIGACOM | ⏳ |
-| 💻 [Exercício 05](./ex05-tratamento-erros.prg) | Tratamento de Erros | ⏳ |
-| 💻 [Exercício 06](./ex06-gravacao-segura.prw) | Gravação Segura | ⏳ |
-| 💻 [Exercício 07](./ex07-executor-seguro.prw) | Executor Seguro (Desafio) | ⏳ |
+| 📄 [Exercício 01](./ex01-dicionario-dados.md) | Dicionário de Dados (SZ1 e SZ2) | 🎯 |
+| 📁 [Exercício 02](./ex02-biblioteca-rotinas/) | Biblioteca e Rotinas do Projeto | 🎯 |
+| 📄 [Exercício 03](./ex03-gatilhos-validacoes.md) | Gatilhos e Validações | 🎯 |
+| 📄 [Exercício 04](./ex04-menu-sigacom.md) | Configuração do Menu SIGACOM | 🎯 |
+| 💻 [Exercício 05](./ex05-tratamento-erros.prg) | Tratamento de Erros | 🎯 |
+| 💻 [Exercício 06](./ex06-gravacao-segura.prw) | Gravação Segura | 🎯 |
+| 💻 [Exercício 07](./ex07-executor-seguro.prw) | Executor Seguro (Desafio) | 🎯 |
 
 ---
 

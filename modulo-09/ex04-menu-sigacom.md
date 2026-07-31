@@ -21,7 +21,7 @@ Durante este exercício, a árvore de opções do módulo de Compras foi atualiz
 > Inclusão das rotinas personalizadas `U_STTIP003` (Contatos) e `U_STTIP004B` (Interações) dentro da estrutura de Cadastros do SIGACOM.
 
 <!-- COLOQUE A IMAGEM AQUI -->
-> ![Menu SIGACOM](./evidencias/camposSZ2.png)
+> ![Menu SIGACOM](./evidencias/compras_interações.png)
 
 ---
 

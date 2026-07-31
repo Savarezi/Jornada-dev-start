@@ -64,4 +64,10 @@ Durante este exercício serão criados:
 
 # Conclusão
 
+## 📷 Diagrama de Relacionamento (DER)
+> Diagrama estrutural demonstrando o relacionamento entre as tabelas do projeto.
+
+<!-- COLOQUE A IMAGEM AQUI -->
+> ![Diagrama DER](./evidencias/der.png)
+
 Após a configuração do dicionário, as tabelas ficaram preparadas para serem utilizadas pelas rotinas desenvolvidas nos próximos exercícios do módulo.

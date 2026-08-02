@@ -35,7 +35,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
   💻 [Módulo 07](modulo-07/) | Introdução ao Protheus e ADVPL|
   💻 [Módulo 08](modulo-08/) | CRUD no Protheus|
   💻 [Módulo 09](modulo-09/) | Projeto CRUD Completo|
-| 🚀 [Projeto Final](projeto-final-tcc/) | Sistema desenvolvido como Trabalho de Conclusão do Curso |
+| 🚀 [Projeto Final](TCC) | Sistema de Controle de Fornecedores (ISO 9001) |
 | 📝 [Exercícios de Fixação](exercicios-extras/) |Exercícios realizados durante a aula |
 | 📝 [Exercícios de Bonus](exercicios_bonus/) |Arquivos DBF nativos em Harbour |
 | 📕 [Materiais de apoio](materiais/) |Conteúdo e Materiais de Apoio por Módulo |

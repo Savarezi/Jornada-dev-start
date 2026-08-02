@@ -10,6 +10,27 @@
 
 ---
 
+## 📝 Diário de Desenvolvimento (Notion)
+
+Durante a execução do projeto foi mantido um espaço dedicado no **Notion**, contendo registros detalhados da trajetória de desenvolvimento, incluindo estudos, anotações, decisões técnicas e evolução das implementações.
+
+🔗 **Acesse o Notion:**
+
+>👉 [Notion — Diário de Desenvolvimento](https://strong-battery-d3e.notion.site/Start-TOTVS-2b699ba03caf80b796badbbdb035405f?source=copy_link)
+
+---
+
+## 📄 TCC — Documentação
+
+A documentação completa do Trabalho de Conclusão de Curso foi elaborada no **Google Docs**, reunindo todas as informações técnicas do projeto.
+
+🔗 **Acesse a documentação completa do TCC:**
+
+>👉 [Google Docs — Documentação do TCC](https://docs.google.com/document/d/1sjCcpFokft-i-Ikai3qscLw797bthxCX30BB-Utpz6c/edit?usp=sharing)
+
+
+---
+
 # 📌 1. Introdução e Visão Geral do Sistema
 
 O presente sistema foi desenvolvido em **ADVPL (Harbour/Protheus)** para atender às necessidades da **Indústria XYZ** no monitoramento das não conformidades na entrada de materiais de fornecedores, garantindo aderência ao processo de certificação da norma **ISO 9001**.

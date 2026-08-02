@@ -42,6 +42,7 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 
 
 ---
+
 > **Aluna:Patricia Oliveira**
 
 >  🌐 [Portfólio Online](https://patriciaoliveiradev.netlify.app/)
@@ -52,6 +53,27 @@ O objetivo deste repositório é acompanhar minha evolução e consolidar conhec
 - 📖 Pílulas: 27/27
 - 💻 Aulas: 9/9
 - 🚀 Projeto Final: Em desenvolvimento
+
+---
+
+# 🚀 Projeto Final (TCC)
+
+## Sistema de Controle de Fornecedores (ISO 9001)
+
+Projeto de conclusão desenvolvido durante o programa **Start+ TOTVS**, utilizando **ADVPL** e **Protheus** para implementar um sistema de gerenciamento de fornecedores alinhado aos princípios da **ISO 9001**.
+
+### Objetivos
+- Cadastro de fornecedores
+- Controle e consulta de informações
+- Padronização dos processos
+- Rastreabilidade dos registros
+- Aplicação de boas práticas de desenvolvimento em ADVPL
+
+>>📂 **Código-fonte:** [projeto-final-tcc/](TCC)
+
+>>📄 **Documentação:** *(https://docs.google.com/document/d/1sjCcpFokft-i-Ikai3qscLw797bthxCX30BB-Utpz6c/edit?usp=sharing)*
+
+---
 
 ---
 <a href="https://www.linkedin.com/in/savarezi/" target="_blank">

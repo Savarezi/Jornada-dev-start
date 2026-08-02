@@ -69,9 +69,13 @@ Para que o Protheus reconheça as rotinas e tabelas de controle da qualidade, os
 ## Índices da ZZ1
 
 1. `ZZ1_FILIAL + ZZ1_CODIGO` *(Chave Primária)*
+>![Chave Primaria](./evidencias/CHAVE%20PRIMARIA.png)
+---
 2. `ZZ1_FILIAL + ZZ1_FORNEC + ZZ1_LOJAFO` *(Por Fornecedor)*
+>![Fornecedor](./evidencias/fornecedor.png)
+---
 3. `ZZ1_FILIAL + DTOS(ZZ1_VALCER)` *(Por Validade do Certificado)*
-
+>![Por Validade do Certificado](./evidencias/Por%20Validade%20do%20Certificado.png)
 ---
 
 # 3.2. Tabela ZZ2 – Ocorrências do Fornecedor
